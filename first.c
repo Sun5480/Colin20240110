@@ -2,7 +2,10 @@
 
 int main()
 {
-	printf("Test\n");
+	printf("xxxxc\n");
+
+	printf("one\n");
+	printf("two\n");
 
 	return 0;
 }
